@@ -25,7 +25,6 @@ public class HDFSClient {
         conf.set("mapreduce.framework.name", "yarn");
         conf.set("yarn.resourcemanager.hostname", "node-01");
         conf.set("mapreduce.app-submission.cross-platform","true");
-
         return conf;
 
     }

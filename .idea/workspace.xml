@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0680db7f-362b-498d-9c43-5a2a80fb354c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/constant/SysConstant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/dexter/HadoopprojectApplicationTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/util/HDFSClient.java" afterPath="$PROJECT_DIR$/src/main/java/util/HDFSClient.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,8 +64,8 @@
       <file leaf-file-name="HDFSClient.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/util/HDFSClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+            <state relative-caret-position="264">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -189,7 +181,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/dexter/wordcount/JobSubmitter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dexter/util/HDFSClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/util/HDFSClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/Constant/SysConstant.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dexter/wordcount/WordcountMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dexter/wordcount/JobSubmitClient.java" />
@@ -197,6 +188,7 @@
         <option value="$PROJECT_DIR$/src/main/java/bean/FlowBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dexter/wordcount/FlowReducer.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/util/HDFSClient.java" />
       </list>
     </option>
   </component>
@@ -931,12 +923,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547729845846</updated>
-      <workItem from="1547729848058" duration="5125000" />
+      <workItem from="1547729848058" duration="5294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5125000" />
+    <option name="totallyTimeSpent" value="5294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1048" extended-state="6" />
@@ -1122,8 +1114,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/util/HDFSClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        <state relative-caret-position="264">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
