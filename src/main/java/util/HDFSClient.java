@@ -44,6 +44,7 @@ public class HDFSClient {
         if(fs.exists(output)){
             fs.delete(output, true);
         }
+        
     }
 
 }
