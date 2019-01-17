@@ -1,0 +1,12 @@
+<!-- 保存的副本数量-->
+<configuration>
+<property>
+<name>dfs.replication</name>
+<value>3</value>
+</property>
+<!-- 数据切片大小-->
+<property>
+<name>dfs.blocksize</name>
+<value>256m</value>
+</property>
+</configuration>
